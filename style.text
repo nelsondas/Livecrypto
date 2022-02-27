@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color:#fff;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  .css-1t29gy6-MuiToolbar-root {
+    min-height: 64px;
+    background: #0E1926;
+  }
+  .css-1mcnwpj-MuiList-root {
+    background-color: #0E1926 !important;
+    color: #fff;
+  }
+  .css-1mcnwpj-MuiList-root svg {
+    fill: #fff;
+  }
+  .css-1oqqzyl-MuiContainer-root {
+    max-width: 1445px !important;
+    padding-left: 10px !important;
+      padding-right: 10px !important;
+  }
+  
+  .css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+    background-color: #0E1926 !important;
+  }
+  .css-zxpoxc-MuiPaper-root{box-shadow: none !important;background: transparent !important;}
+  .css-i9gxme {
+    background: #0A131E !important;
+  }
+  /* width */
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #132235;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #132235;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #132235;
+  }
+
+  /*small tables*/
+  .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiTableContainer-root.css-11xur9t-MuiPaper-root-MuiTableContainer-root {
+    background: rgb(19, 34, 53);
+    padding: 0.6rem 0rem;
+}
+th.MuiTableCell-root.MuiTableCell-body.MuiTableCell-sizeMedium.css-1ex1afd-MuiTableCell-root {
+    color: #fff;
+}
+tr.MuiTableRow-root.MuiTableRow-head.css-1q1u3t4-MuiTableRow-root th {
+    color: #fff;
+}
+table.MuiTable-root.css-rqglhn-MuiTable-root td {
+    color: #ffff;
+}
+
+/*Scanner Button*/
+button.MuiButtonBase-root.MuiTab-root.MuiTab-textColorPrimary.css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+  color: #fff;
+  border-bottom: 2px solid grey;
+}
+
+.css-e53awj-MuiStack-root {
+  color: #fff;
+}
+button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+  width: 100%;
+  border: 1px solid #fff;
+  color: #fff;
+}
+
+.MuiDataGrid-root.css-18lolh3-MuiDataGrid-root {
+  color: #fff;
+}
